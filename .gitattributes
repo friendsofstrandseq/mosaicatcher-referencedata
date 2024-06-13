@@ -5,3 +5,4 @@ segdups/** filter=lfs diff=lfs merge=lfs -text
 bin_200kb_all.bed filter=lfs diff=lfs merge=lfs -text
 mm10.bin_200kb_all.bed filter=lfs diff=lfs merge=lfs -text
 scNOVA_input_SV_affected_genes.txt filter=lfs diff=lfs merge=lfs -text
+plotting/**/ filter=lfs diff=lfs merge=lfs -text
